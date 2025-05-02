@@ -11,3 +11,6 @@ This is a powerful and user-friendly QR Code Generator built using Python (Tkint
   Full-Screen Mode: Clean, distraction-free interface
   Dark/Light Theme Switch: Toggle themes with a single click
   Save & Export: Save QR as image + auto-generate a PDF with QR and content
+
+
+  !image[](https://github.com/shaikshoaibahmed/QR-Code-Generator/blob/main/img/Screenshot%202025-05-02%20215903.png?raw=true)
