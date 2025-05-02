@@ -14,3 +14,4 @@ This is a powerful and user-friendly QR Code Generator built using Python (Tkint
 
 
   ![image alt](https://github.com/shaikshoaibahmed/QR-Code-Generator/blob/main/img/Screenshot%202025-05-02%20215903.png?raw=true)
+  ![image alt](https://github.com/shaikshoaibahmed/QR-Code-Generator/blob/main/img/Screenshot%202025-05-02%20215951.png?raw=true)
